@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 BASE_URL = "https://slayyourplaypromo.in/api/users"
 MASTER_KEY = os.environ.get("SLAYPROMO_MASTER_KEY", "1709065004")
 TELEGRAM_BOT_TOKEN="8867822022:AAHLVTE-2EWSHgHfd5JiknTJ9o8rYRPV7L8"
-ADMIN_IDS = [8739344756]
+ADMIN_IDS = [8739344756,8183677305]
 ADMIN_ID = ADMIN_IDS[0]  # back-compat
 
 # 150 workers per user, designed for up to 50 simultaneous users
