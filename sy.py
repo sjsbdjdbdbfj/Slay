@@ -55,7 +55,8 @@ REQUIRED_CHANNELS = [
         "username":"axxudiscuss",
         "title":"AXXU X DISCUSSION",
         "url": "https://t.me/axxudiscuss",
-        "button": "📢 Join AXXU X DISCUSSION",Loots},
+        "button": "📢 Join AXXU X DISCUSSION"
+    },
 ]
 
 OTP_PROXY_HOST = os.environ.get("OTP_PROXY_HOST", "")
