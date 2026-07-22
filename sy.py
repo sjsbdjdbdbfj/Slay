@@ -46,17 +46,16 @@ INVALID_CODES_PREFIX = os.path.join(INVALID_CODES_DIR, "invalid_codes_")
 BOT_USERNAME = ""  # filled at startup
 REQUIRED_CHANNELS = [
     {
-        "username": "blankkdealz",
-        "title": "Blankk Dealz",
-        "url": "",
-        "button": "📢 Join Blankk Dealz",
+        "username": "axxuloots",
+        "title":"AXXU AXXULOOTS",
+        "url": "https://t.me/axxuloots",
+        "button": "📢 Join AXXU LOOTS ",
     },
     {
-        "username": "earnwithsakx",
-        "title": "Earn With Sakx",
-        "url": "",
-        "button": "📢 Join Earn With Sakx",
-    },
+        "username":"axxudiscuss",
+        "title":"AXXU X DISCUSSION",
+        "url": "https://t.me/axxudiscuss",
+        "button": "📢 Join AXXU X DISCUSSION",Loots},
 ]
 
 OTP_PROXY_HOST = os.environ.get("OTP_PROXY_HOST", "")
