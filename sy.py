@@ -341,12 +341,10 @@ if os.environ.get("SLAYPROMO_ADMIN_GRANT_DAYS") and not os.environ.get("SLAYPROM
 ADMIN_GRANT_DAYS = ADMIN_GRANT_HOURS / 24.0  # legacy alias
 # Back-compat alias used in a few call sites
 REFERRAL_DAYS = REFERRAL_HOURS / 24.0
-
-
 def _fmt_hours(hours=None):
-    """Human label for any hour amount, e.g. '+2 hrs' or '1.5 hrs'."""
+    """Human label for any hour amount, e.g. '+15 mins'."""
     h = REFERRAL_HOURS if hours is None else hours
-        try:
+    try:
         h = float(h)
     except Exception:
         h = REFERRAL_HOURS
@@ -359,7 +357,6 @@ def _fmt_hours(hours=None):
         h_i = int(h)
         return f"{h_i} hr" if h_i == 1 else f"{h_i} hrs"
     return f"{h:g} hrs"
-
 
 def _fmt_reward(hours=None):
     """Human label for referral reward, e.g. '+15 h."""
