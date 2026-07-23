@@ -329,7 +329,7 @@ admin_pending_input = {}
 admin_pending_lock = threading.Lock()
 
 # Referral reward is hours (not days). 1 successful refer = +2 hours.
-REFERRAL_HOURS = int(os.environ.get("SLAYPROMO_REFERRAL_HOURS", "2"))
+REFERRAL_HOURS = float(os.environ.get("SLAYPROMO_REFERRAL_HOURS", "0.25"))
 # Admin default grant when hours not specified (hours, not days)
 ADMIN_GRANT_HOURS = float(os.environ.get("SLAYPROMO_ADMIN_GRANT_HOURS", "24"))
 # Back-compat: old day-based env still works if set
@@ -346,10 +346,15 @@ REFERRAL_DAYS = REFERRAL_HOURS / 24.0
 def _fmt_hours(hours=None):
     """Human label for any hour amount, e.g. '+2 hrs' or '1.5 hrs'."""
     h = REFERRAL_HOURS if hours is None else hours
-    try:
+        try:
         h = float(h)
     except Exception:
         h = REFERRAL_HOURS
+    if h < 1:
+        minutes = round(h * 60)
+        if minutes == 1:
+            return f"{minutes} min"
+        return f"{minutes} mins"
     if h == int(h):
         h_i = int(h)
         return f"{h_i} hr" if h_i == 1 else f"{h_i} hrs"
@@ -357,7 +362,7 @@ def _fmt_hours(hours=None):
 
 
 def _fmt_reward(hours=None):
-    """Human label for referral reward, e.g. '+2 hrs'."""
+    """Human label for referral reward, e.g. '+15 h."""
     return f"+{_fmt_hours(hours)}"
 
 
