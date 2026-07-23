@@ -1,0 +1,535 @@
+{
+  "requests": [
+    {
+      "id": 8981093378,
+      "username": "",
+      "name": "Ramu",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T11:36:00.506881+00:00",
+      "updated_at": "2026-07-22T11:41:18.776055+00:00"
+    },
+    {
+      "id": 1938528529,
+      "username": "babubislri",
+      "name": "𓂀 𝔹𝔸𝔹𝕌 𝔹𝕀𝕊𝕃𝔼ℝ𝕀 𓂀™",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T11:38:42.948197+00:00",
+      "updated_at": "2026-07-22T11:41:18.788357+00:00"
+    },
+    {
+      "id": 6098265293,
+      "username": "dattatayagi",
+      "name": "Datta",
+      "status": "approved",
+      "referred_by": "1938528529",
+      "created_at": "2026-07-22T11:39:45.358727+00:00",
+      "updated_at": "2026-07-22T11:41:18.799354+00:00"
+    },
+    {
+      "id": 6448703252,
+      "username": "firedon5678",
+      "name": "ALOK",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T11:54:42.543198+00:00",
+      "updated_at": "2026-07-22T12:03:35.106237+00:00"
+    },
+    {
+      "id": 7840239950,
+      "username": "m_r_saurabh",
+      "name": "Noob",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T11:55:30.955249+00:00",
+      "updated_at": "2026-07-22T11:58:41.484337+00:00"
+    },
+    {
+      "id": 1353669187,
+      "username": "Zaynex_09",
+      "name": "Zaynex",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T11:56:32.500075+00:00",
+      "updated_at": "2026-07-22T12:03:35.127007+00:00"
+    },
+    {
+      "id": 5277554216,
+      "username": "",
+      "name": "Happy",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:09:51.696559+00:00",
+      "updated_at": "2026-07-22T17:00:28.512419+00:00"
+    },
+    {
+      "id": 1494850938,
+      "username": "anandamb",
+      "name": "Anand",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:10:19.825895+00:00",
+      "updated_at": "2026-07-22T17:00:28.523715+00:00"
+    },
+    {
+      "id": 7421418911,
+      "username": "nskwjwb",
+      "name": "Karan",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:11:00.437153+00:00",
+      "updated_at": "2026-07-22T17:00:28.535690+00:00"
+    },
+    {
+      "id": 8783053334,
+      "username": "",
+      "name": "Ulthros",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:11:06.104998+00:00",
+      "updated_at": "2026-07-22T17:00:28.548584+00:00"
+    },
+    {
+      "id": 6675501787,
+      "username": "Yashapal_0",
+      "name": "∆ YASH",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:11:11.143862+00:00",
+      "updated_at": "2026-07-22T12:17:05.521662+00:00"
+    },
+    {
+      "id": 2146923272,
+      "username": "Divyans13",
+      "name": "Divyans",
+      "status": "approved",
+      "referred_by": "5277554216",
+      "created_at": "2026-07-22T12:11:23.324187+00:00",
+      "updated_at": "2026-07-22T17:00:28.571462+00:00"
+    },
+    {
+      "id": 7015546458,
+      "username": "Ammy190",
+      "name": "Anand",
+      "status": "approved",
+      "referred_by": "1494850938",
+      "created_at": "2026-07-22T12:11:34.496428+00:00",
+      "updated_at": "2026-07-22T17:00:28.582537+00:00"
+    },
+    {
+      "id": 5148145429,
+      "username": "Mafiayash",
+      "name": "MAFIA [ Yash]",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:11:52.239802+00:00",
+      "updated_at": "2026-07-22T17:00:28.593530+00:00"
+    },
+    {
+      "id": 8797995286,
+      "username": "vipLAMBORGINI",
+      "name": "ᴊᴀɪSʜʀᴇᴇKrΐຮhήส•",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:12:05.900519+00:00",
+      "updated_at": "2026-07-22T17:00:28.604910+00:00"
+    },
+    {
+      "id": 6926499631,
+      "username": "",
+      "name": "Kiran",
+      "status": "approved",
+      "referred_by": "7421418911",
+      "created_at": "2026-07-22T12:13:15.363194+00:00",
+      "updated_at": "2026-07-22T17:00:28.615552+00:00"
+    },
+    {
+      "id": 8935662768,
+      "username": "",
+      "name": "Ajay",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:13:17.466136+00:00",
+      "updated_at": "2026-07-22T17:00:28.626336+00:00"
+    },
+    {
+      "id": 8627672685,
+      "username": "",
+      "name": "Diano",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:13:46.832403+00:00",
+      "updated_at": "2026-07-22T17:00:28.637903+00:00"
+    },
+    {
+      "id": 7158547820,
+      "username": "Tanbhaib",
+      "name": "🔥𝐓𝐀𝐍𝐉𝐈𝐑𝐎🔥",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:13:59.736942+00:00",
+      "updated_at": "2026-07-22T17:00:28.650253+00:00"
+    },
+    {
+      "id": 6373180400,
+      "username": "",
+      "name": "Mm",
+      "status": "approved",
+      "referred_by": "8935662768",
+      "created_at": "2026-07-22T12:14:13.235328+00:00",
+      "updated_at": "2026-07-22T17:00:28.664757+00:00"
+    },
+    {
+      "id": 8114840246,
+      "username": "StarLightxxOg",
+      "name": "ꜱᴛᴀʀʟɪɢʜᴛ 2nd Id",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:14:46.112589+00:00",
+      "updated_at": "2026-07-22T17:00:28.679723+00:00"
+    },
+    {
+      "id": 5096610015,
+      "username": "KARTIKBUY",
+      "name": "Kartik🍻",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:15:21.431786+00:00",
+      "updated_at": "2026-07-22T17:00:28.693021+00:00"
+    },
+    {
+      "id": 6836793720,
+      "username": "Suryadevvvv2",
+      "name": "Suryadev",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:15:47.791989+00:00",
+      "updated_at": "2026-07-22T17:00:28.704403+00:00"
+    },
+    {
+      "id": 5696368553,
+      "username": "Keeenuuuuuu",
+      "name": "Keeeennnnuuuuuuuu👅",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:16:09.094200+00:00",
+      "updated_at": "2026-07-22T17:00:28.716338+00:00"
+    },
+    {
+      "id": 5268174815,
+      "username": "Silentboy65",
+      "name": "Raj",
+      "status": "approved",
+      "referred_by": "5148145429",
+      "created_at": "2026-07-22T12:16:10.918464+00:00",
+      "updated_at": "2026-07-22T17:00:28.727876+00:00"
+    },
+    {
+      "id": 682696237,
+      "username": "Deb43",
+      "name": "Deb",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:16:39.769873+00:00",
+      "updated_at": "2026-07-22T17:00:28.739359+00:00"
+    },
+    {
+      "id": 1900821339,
+      "username": "Ambuja_cementt",
+      "name": "Aaryan",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:16:56.736806+00:00",
+      "updated_at": "2026-07-22T17:00:28.750999+00:00"
+    },
+    {
+      "id": 6329433486,
+      "username": "shubhamvns7",
+      "name": "Fireotp Shubham",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:17:31.400453+00:00",
+      "updated_at": "2026-07-22T17:00:28.766221+00:00"
+    },
+    {
+      "id": 6935229346,
+      "username": "Sahil_mushtaq07",
+      "name": "s ᴀ ʜ ɪ ʟ",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:17:43.037935+00:00",
+      "updated_at": "2026-07-22T17:00:28.779023+00:00"
+    },
+    {
+      "id": 8415237689,
+      "username": "Aditya009955",
+      "name": "Vikki",
+      "status": "approved",
+      "referred_by": "5268174815",
+      "created_at": "2026-07-22T12:17:50.539778+00:00",
+      "updated_at": "2026-07-22T17:00:28.791037+00:00"
+    },
+    {
+      "id": 7104950209,
+      "username": "Chinu9900",
+      "name": "Chinu",
+      "status": "approved",
+      "referred_by": "682696237",
+      "created_at": "2026-07-22T12:18:07.050480+00:00",
+      "updated_at": "2026-07-22T17:00:28.802541+00:00"
+    },
+    {
+      "id": 8627359324,
+      "username": "",
+      "name": "Shubham Singh",
+      "status": "approved",
+      "referred_by": "6329433486",
+      "created_at": "2026-07-22T12:18:26.020467+00:00",
+      "updated_at": "2026-07-22T17:00:28.814082+00:00"
+    },
+    {
+      "id": 7341741579,
+      "username": "Sahilmushtaqshiekh",
+      "name": "Sheikh",
+      "status": "approved",
+      "referred_by": "6935229346",
+      "created_at": "2026-07-22T12:18:40.523252+00:00",
+      "updated_at": "2026-07-22T17:00:28.825860+00:00"
+    },
+    {
+      "id": 8624684978,
+      "username": "",
+      "name": "Rani",
+      "status": "approved",
+      "referred_by": "1900821339",
+      "created_at": "2026-07-22T12:18:46.505802+00:00",
+      "updated_at": "2026-07-22T17:00:28.837008+00:00"
+    },
+    {
+      "id": 6343396571,
+      "username": "Its8094",
+      "name": "~Anurag",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:19:29.627452+00:00",
+      "updated_at": "2026-07-22T17:00:28.848248+00:00"
+    },
+    {
+      "id": 6005317736,
+      "username": "divyanshu4810",
+      "name": "𝐃𝐈𝐕𝐘𝐀𝐍𝐒𝐇𝐔",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:20:19.965284+00:00",
+      "updated_at": "2026-07-22T17:00:28.860098+00:00"
+    },
+    {
+      "id": 8325185124,
+      "username": "PbxArjun",
+      "name": "Pbx Tricks",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:23:13.379588+00:00",
+      "updated_at": "2026-07-22T17:00:28.871243+00:00"
+    },
+    {
+      "id": 8481364853,
+      "username": "",
+      "name": "Ronit",
+      "status": "approved",
+      "referred_by": "6005317736",
+      "created_at": "2026-07-22T12:23:30.709517+00:00",
+      "updated_at": "2026-07-22T17:00:28.882902+00:00"
+    },
+    {
+      "id": 7703569454,
+      "username": "Abhi_razputtt",
+      "name": "Abhi Razputt",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:26:57.531831+00:00",
+      "updated_at": "2026-07-22T17:00:28.894585+00:00"
+    },
+    {
+      "id": 8508731759,
+      "username": "Tanbutsec",
+      "name": "Tanbutsec👍🏻",
+      "status": "approved",
+      "referred_by": "7158547820",
+      "created_at": "2026-07-22T12:27:47.144425+00:00",
+      "updated_at": "2026-07-22T17:00:28.905943+00:00"
+    },
+    {
+      "id": 8813115267,
+      "username": "Dheeraj27279",
+      "name": "Dheeraj",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:31:28.048734+00:00",
+      "updated_at": "2026-07-22T17:00:28.917136+00:00"
+    },
+    {
+      "id": 8285141657,
+      "username": "CodexErrorr",
+      "name": "Oggy",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:33:03.275062+00:00",
+      "updated_at": "2026-07-22T17:00:28.930363+00:00"
+    },
+    {
+      "id": 7390997232,
+      "username": "unforgettwble001",
+      "name": "Тебя так интересует мое имя",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:36:40.272969+00:00",
+      "updated_at": "2026-07-22T12:38:29.696217+00:00"
+    },
+    {
+      "id": 8101876637,
+      "username": "",
+      "name": "⏤͟͟͞͞ Vɪsʜᴀʟ 🌷",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:37:01.768611+00:00",
+      "updated_at": "2026-07-22T12:38:48.117855+00:00"
+    },
+    {
+      "id": 8140330167,
+      "username": "OWNER_OF_META",
+      "name": "𝗠𝗘𝗧𝗔🎯(offline)",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:39:11.559299+00:00",
+      "updated_at": "2026-07-22T17:00:28.964957+00:00"
+    },
+    {
+      "id": 8770384006,
+      "username": "itz_anisha_paris",
+      "name": "ITZANISHA 💕",
+      "status": "approved",
+      "referred_by": "8797995286",
+      "created_at": "2026-07-22T12:42:38.681925+00:00",
+      "updated_at": "2026-07-22T17:00:28.975938+00:00"
+    },
+    {
+      "id": 6297919814,
+      "username": "",
+      "name": "Ayush",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T12:54:09.899712+00:00",
+      "updated_at": "2026-07-22T17:00:28.987120+00:00"
+    },
+    {
+      "id": 7650681270,
+      "username": "",
+      "name": "LAPSUS$",
+      "status": "approved",
+      "referred_by": "6297919814",
+      "created_at": "2026-07-22T12:54:43.033075+00:00",
+      "updated_at": "2026-07-22T17:00:28.998553+00:00"
+    },
+    {
+      "id": 5701858403,
+      "username": "Ronak7450",
+      "name": "Ronak (BR)कट्टर⚡हिंदु ㅤㅤㅤㅤ ㅤᴀᴅᴍɪɴ",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T13:04:24.269988+00:00",
+      "updated_at": "2026-07-22T17:00:29.010685+00:00"
+    },
+    {
+      "id": 5427735251,
+      "username": "Sjnd88",
+      "name": "ƬʜᴇΉΛᑕKΣЯ♛",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T13:06:30.931129+00:00",
+      "updated_at": "2026-07-22T15:01:31.570784+00:00"
+    },
+    {
+      "id": 6244053739,
+      "username": "Mayank9930",
+      "name": "Ⓜ A Y A N K",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T13:22:59.796158+00:00",
+      "updated_at": "2026-07-22T13:25:14.870898+00:00"
+    },
+    {
+      "id": 7735517617,
+      "username": "",
+      "name": "Pun",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T13:38:01.567237+00:00",
+      "updated_at": "2026-07-22T17:00:29.046721+00:00"
+    },
+    {
+      "id": 6753248665,
+      "username": "ITSOK9291",
+      "name": "🇩‌🇪‌🇻‌",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T13:39:47.350465+00:00",
+      "updated_at": "2026-07-22T13:40:56.326855+00:00"
+    },
+    {
+      "id": 5709742457,
+      "username": "",
+      "name": "Ananya",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T14:28:10.129064+00:00",
+      "updated_at": "2026-07-22T14:32:02.313638+00:00"
+    },
+    {
+      "id": 7542896288,
+      "username": "Mickeyxart",
+      "name": "Art 🔥 #Team Indra",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T15:00:53.258815+00:00",
+      "updated_at": "2026-07-22T17:00:29.085533+00:00"
+    },
+    {
+      "id": 8805747688,
+      "username": "someone_owner",
+      "name": "Someone",
+      "status": "approved",
+      "referred_by": "7542896288",
+      "created_at": "2026-07-22T15:01:31.122220+00:00",
+      "updated_at": "2026-07-22T17:00:29.096819+00:00"
+    },
+    {
+      "id": 8934319793,
+      "username": "Looters324",
+      "name": "Ahmed",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T15:39:23.852631+00:00",
+      "updated_at": "2026-07-22T17:00:29.108552+00:00"
+    },
+    {
+      "id": 5542452425,
+      "username": "Rahul98829",
+      "name": "Rahul Anna",
+      "status": "approved",
+      "referred_by": "",
+      "created_at": "2026-07-22T15:51:47.659491+00:00",
+      "updated_at": "2026-07-22T17:00:29.120621+00:00"
+    },
+    {
+      "id": 8051710497,
+      "username": "",
+      "name": "Bhagat",
+      "status": "approved",
+      "referred_by": "5542452425",
+      "created_at": "2026-07-22T15:52:29.791377+00:00",
+      "updated_at": "2026-07-22T17:00:29.132253+00:00"
+    }
+  ]
+}
