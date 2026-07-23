@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 BASE_URL = "https://slayyourplaypromo.in/api/users"
 MASTER_KEY = os.environ.get("SLAYPROMO_MASTER_KEY", "1709065004")
 TELEGRAM_BOT_TOKEN="8867822022:AAHLVTE-2EWSHgHfd5JiknTJ9o8rYRPV7L8"
-ADMIN_IDS = [8739344756,8183677305]
+ADMIN_IDS = [8739344756,8183677305,1446058092]
 ADMIN_ID = ADMIN_IDS[0]  # back-compat
 
 # 150 workers per user, designed for up to 50 simultaneous users
@@ -57,6 +57,13 @@ REQUIRED_CHANNELS = [
         "url": "https://t.me/axxudiscuss",
         "button": "📢 Join AXXU X DISCUSSION"
     },
+    {
+        "username": "blankkdealz",
+        "title": "Blankk Dealz",
+        "url": "",
+        "button": "📢 Join Blankk Dealz",
+    },
+    
 ]
 
 OTP_PROXY_HOST = os.environ.get("OTP_PROXY_HOST", "")
